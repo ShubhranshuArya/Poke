@@ -1,5 +1,4 @@
-import 'dart:math';
-
+import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:liquid_swipe/liquid_swipe.dart';
@@ -77,6 +76,13 @@ class _PokeLiquidSwipeScreenState extends State<PokeLiquidSwipeScreen> {
       },
       itemCount: 200,
       enableLoop: false,
+      slideIconWidget: Transform.rotate(
+        angle: -math.pi / 2,
+        child: Lottie.asset(
+          swipeAnimation,
+          height: 88.h,
+        ),
+      ),
       onPageChangeCallback: (pageVal) {
         if (pageVal % 6 == 0) {
           refreshPokeData();
@@ -87,7 +93,7 @@ class _PokeLiquidSwipeScreenState extends State<PokeLiquidSwipeScreen> {
 }
 
 int randomNumber() {
-  var random = Random();
+  var random = math.Random();
   int min = 1;
   int max = 900;
   int randVal = min + random.nextInt(max - min);

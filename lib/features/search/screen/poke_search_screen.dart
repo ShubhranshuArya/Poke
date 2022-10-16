@@ -69,10 +69,13 @@ class _PokeSearchScreenState extends State<PokeSearchScreen> {
                   childCurrent: widget,
                 ),
               ),
-              child: Lottie.asset(
-                pokeballAnimation,
-                height: 60.r,
-                animate: isDataLoaded,
+              child: Padding(
+                padding: EdgeInsets.only(bottom: 24.h),
+                child: Lottie.asset(
+                  pokeballAnimation,
+                  height: 60.r,
+                  animate: isDataLoaded,
+                ),
               ),
             ),
             body: SafeArea(

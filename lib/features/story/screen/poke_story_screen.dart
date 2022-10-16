@@ -51,7 +51,7 @@ class _PokeStoryScreenState extends State<PokeStoryScreen> {
                     top: 24.h,
                     left: 30.w,
                     right: 30.w,
-                    bottom: 16.h,
+                    bottom: 24.h,
                   ),
                   child: Column(
                     children: [
@@ -109,9 +109,10 @@ class _PokeStoryScreenState extends State<PokeStoryScreen> {
                             childCurrent: widget,
                           ),
                         ),
-                        child: Lottie.asset(
-                          swipeAnimation,
-                          height: 88.h,
+                        child: Icon(
+                          Icons.keyboard_arrow_down_rounded,
+                          color: whitePrimary,
+                          size: 64.r,
                         ),
                       ),
                     ],
