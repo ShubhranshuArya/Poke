@@ -1,16 +1,6 @@
-# poke_app
+# Poké
 
-A new Flutter project.
+# Ui Preview
 
-## Getting Started
+![poke](https://user-images.githubusercontent.com/77967955/196111344-0a576de5-cdb9-47c6-b72d-048c403b7727.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
