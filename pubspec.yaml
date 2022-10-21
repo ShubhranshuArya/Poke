@@ -31,7 +31,6 @@ dependencies:
     sdk: flutter
   flutter_animate: ^1.0.0
   flutter_bloc: ^8.1.1
-  
   flutter_screenutil: ^5.5.4
   flutter_svg: ^1.1.5
   google_fonts: ^3.0.1
@@ -40,10 +39,11 @@ dependencies:
   lottie: ^1.4.3
   page_transition: ^2.0.9
   percent_indicator: ^4.2.2
+  rename: ^2.0.1
 
 dev_dependencies:
-  flutter_launcher_icons: ^0.10.0
   build_runner: ^2.3.0
+  flutter_launcher_icons: ^0.10.0
   flutter_lints: ^2.0.0
   flutter_test:
     sdk: flutter
