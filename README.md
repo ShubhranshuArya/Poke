@@ -1,7 +1,7 @@
 # Poké
 Poké is an exquisite application that blends neat animations with intricate elements retrieved from PokéApi and PokeRes Apis. Using the search tool, users can discover more about a Pokemon by typing in its name or ID.
 
-## Download Now -> [Poké](https://github.com/ShubhranshuArya/Poke/raw/main/Download%20Link/poke.apk)
+## Download Now -> [Poké](https://github.com/ShubhranshuArya/Poke/raw/main/Download%20Apk/poke_app.apk)
 
 # App Preview
 
