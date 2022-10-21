@@ -1,16 +1,9 @@
-# poke_app
+# Poké
+Poké is an exquisite application that blends neat animations with intricate elements retrieved from PokéApi and PokeRes Apis. Using the search tool, users can discover more about a Pokemon by typing in its name or ID.
 
-A new Flutter project.
+# App Preview
 
-## Getting Started
+https://user-images.githubusercontent.com/77967955/197122518-a52b5b2e-be55-4e17-bf47-6be97dc005bc.mp4
 
-This project is a starting point for a Flutter application.
+![poke](https://user-images.githubusercontent.com/77967955/196111344-0a576de5-cdb9-47c6-b72d-048c403b7727.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
