@@ -12,7 +12,7 @@ Welcome to the Pokémon Flutter App! This application is designed to provide a d
 
 ## 🎉 Features
 
-| Home Page | Random Pokémon Swipe | Pokémon Details |
+| Poké Home | Poké Stories | Poké Details |
 | --- | --- | --- |
 | <img src="https://github.com/user-attachments/assets/eb021b78-671c-4719-bde2-88691f5f0b29" width="250" /> | <img src="https://github.com/user-attachments/assets/086f403e-e320-4f7a-85ad-06eb21346281" width="250" />  | <img src="https://github.com/user-attachments/assets/7d682a2c-2b2d-4ecf-a306-2bc3af9486db" width="250" /> |
 
