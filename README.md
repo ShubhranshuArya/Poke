@@ -3,12 +3,12 @@
 Welcome to the Pokémon Flutter App! This application is designed to provide a delightful experience for Pokémon enthusiasts by leveraging the power of Flutter for the frontend and PokeAPI for data. The app features stunning animations, a random Pokémon swipe section, and a detailed Pokémon information view with a carousel slider for images.
 
 ## 📋 Table of Contents
-- [Features]()
-- [Technologies Used]()
-- [Installation]()
-- [Contributing]()
-- [License]()
-- [Contact]()
+- [Features](##-🎉-features)
+- [Build With](##-⚡️-built-with)
+- [Installation](##-🚀-installation)
+- [Contributing](##-🤝-contributing)
+- [License](##-📄-license)
+- [Contact](##-💭-connect-with-me)
 
 ## 🎉 Features
 
@@ -20,7 +20,7 @@ Welcome to the Pokémon Flutter App! This application is designed to provide a d
 
 The home page features a beautifully designed grid layout displaying various Pokémon. It also includes a search bar where users can search for Pokémon by name or Pokédex number.
 
-### 2. Random Pokémon Swipe Section
+### 2. Pokémon Stories
 
 Swipe left on the stories page to discover a new random Pokémon. This feature adds an element of surprise and excitement as users explore different Pokémon.
 
@@ -75,8 +75,9 @@ We welcome contributions to the Pokémon Flutter App! If you would like to contr
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 💭 Contact
+## 💭 Connect With Me
 * Twitter - [@shubhranshuarya](https://twitter.com/shubhranshuarya)
+* LinkedIn - [Shubhranshu Arya](https://www.linkedin.com/in/shubhranshu-arya/)
 * Email - [shubhranshuarya@gmail.com](shubhranshuarya@gmail.com)
 
 ## Thank you for sticking till the end!! I hope you enjoy it as much as I enjoyed building it. Happy Pokémon hunting! 🎮🔍
