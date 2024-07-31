@@ -3,12 +3,12 @@
 Welcome to the Pokémon Flutter App! This application is designed to provide a delightful experience for Pokémon enthusiasts by leveraging the power of Flutter for the frontend and PokeAPI for data. The app features stunning animations, a random Pokémon swipe section, and a detailed Pokémon information view with a carousel slider for images.
 
 ## 📋 Table of Contents
-- [Features](##-🎉-features)
-- [Build With](##-⚡️-built-with)
-- [Installation](##-🚀-installation)
-- [Contributing](##-🤝-contributing)
-- [License](##-📄-license)
-- [Contact](##-💭-connect-with-me)
+- [Features](#-features)
+- [Build With](#%EF%B8%8F-built-with)
+- [Installation](#-installation)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-connect-with-me)
 
 ## 🎉 Features
 
