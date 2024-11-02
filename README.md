@@ -1,4 +1,5 @@
 # 🌟 Poké - Gotta catch em all!!
+![poke_banner](https://github.com/user-attachments/assets/f21e91f9-cf73-4e9c-ba60-3ed7b4f30825)
 
 Welcome to the Pokémon Flutter App! This application is designed to provide a delightful experience for Pokémon enthusiasts by leveraging the power of Flutter for the frontend and PokeAPI for data. The app features stunning animations, a random Pokémon swipe section, and a detailed Pokémon information view with a carousel slider for images.
 
